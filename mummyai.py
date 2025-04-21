@@ -52,7 +52,7 @@ mission_requests = deque([
 
 
 
-print("📖️ MUMMY.AI REPORT SYSTE4\n")
+print("📖️ MUMMY.AI REPORT SYSTEM\n")
 print("✨ Year 1240 A.D. — Egyptian Martian Colony, Planet Mars ✨")
 print("""
 Around 5 B.C., the Egyptians discovered how to travel through space using pyramid portals known as *Pydoors*.
