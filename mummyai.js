@@ -1,4 +1,4 @@
-// 🛡MUMMY AI - JavaScript edition
+// 🤖 MUMMY AI - JavaScript edition
 
 class Queue {
   constructor() {
