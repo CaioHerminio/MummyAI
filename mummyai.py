@@ -1,3 +1,5 @@
+# // 🤖MUMMY AI -  Python edition
+
 from collections import deque
 
 # 🛡️🗡️ LIST – Ankhor’s inventory of weapons
