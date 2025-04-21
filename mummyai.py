@@ -1,4 +1,4 @@
-# // 🤖MUMMY AI -  Python edition
+# 🤖MUMMY AI -  Python edition
 
 from collections import deque
 
